@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Shuang (Dottie) Zhang # your name (or website title) here
+logo: "/images/Shuang%20Photo.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  With 13+years of experience in science and finance, I have gained skills in data, research, investment, and accounting. Currently obtained an AUT-accredited Certificate in Data Science, gaining hands-on technical skills and understanding of how to apply them for business success. Looking to build my career in Data Science, I am eager to land a Data Scientist/Analyst role.
   <br><br>
   Second description 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/dottie-zhang-6b0904203/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
