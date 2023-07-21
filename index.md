@@ -5,7 +5,7 @@
 ### Exploratory Data Analysis & Dashboard
 
 [Exploratory Data Analysis on Development Indicators and CO2 Emission](https://github.com/dottieshuangzhang/world-bank_data-analysis)
-<img src="https://github.com/dottieshuangzhang/world-bank_data-analysis/blob/main/world%20bank%20data.PNG"/>
+<img src="images/wbdata_dashboard.PNG"/>
 
 
 ---
