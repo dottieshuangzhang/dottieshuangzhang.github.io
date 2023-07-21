@@ -20,7 +20,9 @@
 
 ### Machine Learning
 
-- [Project 1 Title](http://example.com/)
+- [Fraudulent Risk Prediction: Machine Learning Assisting Audit Planning](https://github.com/dottieshuangzhang/audit-risk_prediction)
+- <img src="https://github.com/dottieshuangzhang/audit-risk_prediction/blob/main/Audit%20risk%20prediction/Slide2.PNG"/>
+
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
