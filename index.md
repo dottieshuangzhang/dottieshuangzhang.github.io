@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Exploratory Data Analysis & Dashboard
 
 [Exploratory Data Analysis on Development Indicators and CO2 Emission](https://github.com/dottieshuangzhang/world-bank_data-analysis)
 <img src="https://github.com/dottieshuangzhang/world-bank_data-analysis/blob/main/world%20bank%20data.PNG"/>
@@ -18,7 +18,7 @@
 
 ---
 
-### Category Name 2
+### Machine Learning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
