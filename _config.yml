@@ -5,6 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently obtained an AUT-accredited Certificate in Data Science, gaining hands-on technical skills and understanding of how to apply them for business success. <br>
   Looking to build my career in Data Science, I am eager to land a Data Scientist/Analyst role.<br>
   <br><br>
+
+<a href="https://www.linkedin.com/in/dottie-zhang-6b0904203/">View My LinkedIn Profile</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
