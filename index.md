@@ -15,8 +15,8 @@
 - [Fraudulent Risk Prediction: Machine Learning Assisting Audit Planning](https://github.com/dottieshuangzhang/audit-risk_prediction)
 <img src="images/fraud%20triangle.PNG"/>
 
-- [Fraudulent Risk Prediction: Machine Learning Assisting Audit Planning](https://github.com/dottieshuangzhang/audit-risk_prediction)
-<img src="images/fraud%20triangle.PNG"/>
+- [Company Bankruptcy Prediction](https://github.com/dottieshuangzhang/company-bankruptcy_prediction)
+<img src="images/bankruptcy%20prediciton.PNG"/>
 
 ---
 
