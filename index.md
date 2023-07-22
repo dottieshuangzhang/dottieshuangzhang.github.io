@@ -13,14 +13,16 @@
 ### Machine Learning
 
 - [Fraudulent Risk Prediction: Machine Learning Assisting Audit Planning](https://github.com/dottieshuangzhang/audit-risk_prediction)
-- <img src="images/fraud%20triangle.PNG"/>
+<img src="images/fraud%20triangle.PNG"/>
 
+- [Fraudulent Risk Prediction: Machine Learning Assisting Audit Planning](https://github.com/dottieshuangzhang/audit-risk_prediction)
+<img src="images/fraud%20triangle.PNG"/>
 
 ---
 
 ### Natural Language Processing
-- [Fraudulent Risk Prediction: Machine Learning Assisting Audit Planning](https://github.com/dottieshuangzhang/audit-risk_prediction)
-- <img src="images/word%20cloud.PNG"/>
+- [Sentiment Analysis in Financial News](https://github.com/dottieshuangzhang/financial-news_sentiment-analysis)
+<img src="images/word%20cloud.PNG"/>
 
 
 ---
