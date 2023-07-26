@@ -5,13 +5,14 @@
 ### Exploratory Data Analysis & Dashboard
 
 [Exploratory Data Analysis on Development Indicators and CO2 Emission](https://github.com/dottieshuangzhang/world-bank_data-analysis)
-<img src="images/wbdata_dashboard.PNG"/>
 - Python
 - API
+- Data wrangling
 - Data visualisation
-- Statistical analysis
+- Statistics
+- Hypothesis test  
 This is a mini project I did for my IOD Data Science and AI certificate using Python and Jupyter Notebook. In this project, we collect data from the World Bank V2 Indicators API, for more than 150 countries across 40 years. We performed cross-sectional and time-series analyses to examine how CO2 emission is affected by various development indicators. 
-
+<img src="images/wbdata_dashboard.PNG"/>
 ---
 
 ### Machine Learning
